@@ -22,7 +22,10 @@ Triangle Tracker
     ## live link
 
 ###BDD
-
+| Behavior            | input     |output        |
+|---------------------|-----------|--------------|
+|All sides are equal  | 5,5,5     | Equilateral  |
+|
 
 ## contacts
 
