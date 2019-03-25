@@ -5,7 +5,7 @@ function triangleTracker() {
 
 
   if(isNaN(a,b,c) === true || (a<=0 || b<=0 || c<=0)){
-    alert("NOTHING")
+    alert("PUT VALID MEASURMENTS!!")
   }
    else if ( a === b && b === c) {
     alert("It's an Equiateral triangle.")
