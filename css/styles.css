@@ -26,6 +26,9 @@ button {
   font-size: 16px;
   border-radius: 10px;
 }
+#homebar{
+  color: grey;
+}
 
 #checkpoint {
   color: #000;
