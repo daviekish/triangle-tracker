@@ -21,13 +21,14 @@ Triangle Tracker
         1. simply type this url in your browser
     ## live link
 
-###BDD
+\###BDD
 | Behavior            | input     |output        |
-|---------------------|-----------|--------------|
+\|---------------------\|-----------\|--------------\|
 |All sides are equal  | 5,5,5     | Equilateral  |
 |Two sides are equal  | 6,6,5     | isosceles    |
 |No sides are equal   | 4,5,6     | scalene      |
 |Sides 0 or a NaN     | t,0,4     | invalid      | 
+
 ## contacts
 
     1. davie.kamweru5612@gmail.com
