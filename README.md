@@ -25,7 +25,7 @@ Triangle Tracker
 | Behavior            | input     |output        |
 |---------------------|-----------|--------------|
 |All sides are equal  | 5,5,5     | Equilateral  |
-|
+|Two sides are equal  | 6,6,5     | isosceles    |
 
 ## contacts
 
